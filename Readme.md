@@ -16,13 +16,22 @@ All things considered, this code shows how to combine React Native's features an
 Screenshots to demonstrate the app:
 
 ![Party events](./Screenshots/App1.png)
+
 ![Concert events](./Screenshots/App2.png)
+
 ![Art events](./Screenshots/App3.png)
+
 ![payment page](./Screenshots/App4.png)
+
 ![Card Details](./Screenshots/App5.png)
+
 ![Payment confirmed](./Screenshots/App6.png)
+
 ![Invalid card number](./Screenshots/App7.png)
+
 ![Invalid expiry date](./Screenshots/App8.png)
+
 ![Invalid CVV](./Screenshots/App9.png)
+
 ![Tickets unavailable](./Screenshots/App10.png)
 
