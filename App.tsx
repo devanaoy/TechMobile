@@ -20,8 +20,13 @@ const App = () => {
   ];
 
   const handleBookNow = (index: number) => {
-    setSelectedEvent(events[index]);
-    setPaymentModalVisible(true);
+    const event = events[index];
+    if (ticketCounts[event.index] > 0) {
+      setSelectedEvent(event);
+      setPaymentModalVisible(true);
+    } else {
+      Alert.alert('Tickets Unavailable', 'Sorry, all tickets for this event have been sold out.');
+    }
   };
 
   const handlePaymentConfirm = () => {
