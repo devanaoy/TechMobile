@@ -21,3 +21,8 @@ Screenshots to demonstrate the app:
 ![payment page](./Screenshots/App4.png)
 ![Card Details](./Screenshots/App5.png)
 ![Payment confirmed](./Screenshots/App6.png)
+![Invalid card number](./Screenshots/App7.png)
+![Invalid expiry date](./Screenshots/App8.png)
+![Invalid CVV](./Screenshots/App9.png)
+![Tickets unavailable](./Screenshots/App10.png)
+
