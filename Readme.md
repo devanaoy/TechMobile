@@ -20,6 +20,7 @@ App Demonstration :
 Party events : The user interface of this React Native app allows users to browse and purchase tickets for a variety of events, including concerts, parties, and art exhibitions. A list of party events with their specifics, including name, date, hour, cost, and number of tickets still available, appears when you pick the "Parties" category. Once the user has selected an event, they can purchase tickets by entering their card details in a payment modal that appears for confirmation. Once verified, the payment is handled, and the number of tickets available for the chosen event is subsequently reduced.
 ![Party events](./Screenshots/App1.png)
 
+
 Concert events : Users may find and reserve tickets for a variety of events, such as concerts, parties, and the arts, via the React Native app's interactive platform. The software dynamically generates a list of concert events with the event name, date, time, price, and available tickets when users select the "Concerts" category. Users can reserve tickets after choosing an event that interests them. Entering card information will initiate a payment process to complete the transaction. The purchase is completed and the quantity of tickets available for the chosen concert event drops as soon as the confirmation is successful.
 ![Concert events](./Screenshots/App2.png)
 
