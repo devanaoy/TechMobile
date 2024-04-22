@@ -49,5 +49,6 @@ Tickets Unavailable : When consumers try to purchase tickets for an event that i
 
 Event App Video Demonstration:
 
-![Event App Video Demonstration](./Videos/EventApp.mp4)
+[![Event App Video Demonstrationo](Videos/EventApp.mp4)](Videos/EventApp.mp4)
+
 
