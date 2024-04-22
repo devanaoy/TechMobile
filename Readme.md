@@ -47,3 +47,7 @@ Invalid CVV : The system quickly alerts users to errors when they enter an inval
 Tickets Unavailable : When consumers try to purchase tickets for an event that is sold out in the React Native application, the "Tickets Unavailable" page shows up. It informs consumers that there are no more tickets available for the event they have selected, which stops them from making the purchase. This prompt acts as a crucial warning to users, guaranteeing openness regarding the state of ticket availability and averting pointless attempts to reserve sold-out events. The application helps manage user expectations and prevents potential frustrations by communicating ticket availability in a simple and honest manner. Furthermore, in an effort to improve user engagement and general application satisfaction, this page might also offer recommendations for users to check out other events that are happening or sign up for alerts about upcoming ticket releases.
 ![Tickets unavailable](./Screenshots/App10.png)
 
+Event App Video Demonstration:
+
+[![Event App Video Demonstration](./Videos/EventApp.mp4)
+
