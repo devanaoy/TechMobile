@@ -1,6 +1,6 @@
                   Personal Mobile App Project Final
 
-                  Project Title : Event Ticketing
+                   Project Title : Event Ticketing
 
 
 About the app:
