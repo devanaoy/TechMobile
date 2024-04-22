@@ -14,6 +14,8 @@ This React Native code snippet creates an event booking application by utilizing
 First, component-level state is managed by using React's `useState` hook in conjunction with functional components. As a result, efficient re-renders and dynamic changes depending on user interactions are possible. The application creates an interactive and aesthetically pleasing user interface by using React Native's built-in components, including {View}, {Text{, {TouchableOpacity}, `StyleSheet{, {ImageBackground}, {Modal}, {TextInput{, and `Image}. The `StyleSheet.create` technique is utilized to style these components, guaranteeing codebase uniformity and comprehensibility. {onPress} handlers support event handling, allowing users to choose event categories, reserve tickets, and validate payments. Regular expressions (`Regex`) are used in input validation to make sure that user-supplied data, like card numbers, expiration dates, and CVV numbers, follow predefined standards. Using arrays to manage ticket counts ({ticketCounts}) for several event types is essential. Accurate tracking of ticket availability is ensured by the dynamic updating of this array, which contains the number of available tickets for each event when users book them. Furthermore, the program makes use of {Modal` components to show payment confirmation dialogs, giving users an easy-to-use interface through which to complete their transactions.
 All things considered, this code shows how to combine React Native's features and best practices to produce an event booking app that is both useful and easy to use.
 
+Note : We have used App.tsx, AppNavigator.tsx file to run the code and you can view the files in the same repository.
+
 
 App Demonstration :
 
