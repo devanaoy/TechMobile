@@ -2,6 +2,10 @@
 
                   Project Title : Event Ticketing
 
+                  Team Members:
+                   OMPRAKASHREDDY DEVANAMPALLI
+                   RESHMA REDDY VALLAKONDA
+
 
 About the app:
 
